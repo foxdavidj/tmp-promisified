@@ -1,0 +1,22 @@
+{
+  "name": "tmp-promisified",
+  "version": "1.0.0",
+  "description": "Promisified version of tmp",
+  "main": "out/main.js",
+  "types": "out/main.d.ts",
+  "author": "David Fox",
+  "license": "MIT",
+  "dependencies": {
+    "@types/tmp": "0.0.33",
+    "tmp": "0.0.33"
+  },
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  },
+  "scripts": {
+    "prepublish": "make"
+  },
+  "files": [
+    "out"
+  ]
+}
