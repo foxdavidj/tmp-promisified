@@ -1,6 +1,6 @@
 {
   "name": "tmp-promisified",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promisified version of tmp",
   "main": "out/main.js",
   "types": "out/main.d.ts",
