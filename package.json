@@ -18,5 +18,9 @@
   },
   "files": [
     "out"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/obto/tmp-promisified.git"
+  }
 }
